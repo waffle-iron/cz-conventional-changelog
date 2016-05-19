@@ -77,7 +77,7 @@ module.exports = {
 		name: 'body',
 		message: 'Provide a longer description of the change:\n'
 	  }
-	], function(answers) {
+	]).then(function(answers) {
 
 	  var maxLineWidth = 100;
 
