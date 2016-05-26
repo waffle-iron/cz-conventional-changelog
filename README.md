@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/chrisjbrown/cz-conventional-changelog.png?label=ready&title=Ready)](https://waffle.io/chrisjbrown/cz-conventional-changelog)
 # cz-conventional-changelog
 
 Status:
